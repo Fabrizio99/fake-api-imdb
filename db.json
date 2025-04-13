@@ -1,4 +1,10 @@
 {
+  "user": {
+    "id": "123",
+    "name": "Fabrizio Condori",
+    "email": "fabrizio.condori@gmail.com",
+    "phone": "903103332"
+  },
   "movies": [
     {
       "tconst": "tt0064835",
